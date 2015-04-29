@@ -1,0 +1,1 @@
+use lame library convert wav to mp3.
